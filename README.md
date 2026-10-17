@@ -221,4 +221,4 @@ JustVoip is offered as a full free version, with all features and updates includ
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 13:34:36 UTC
+**Last updated:** 2026-10-17 16:57:22 UTC
